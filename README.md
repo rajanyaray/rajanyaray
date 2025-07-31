@@ -70,14 +70,5 @@
   <a href="https://www.linkedin.com/in/rajanya-ray-92ab452a3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
   <a href="mailto:rayrajanya4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
 </p>
-
 ---
 
-### 🧑‍🎨 Aesthetic Touch
-
-```svg
-<!-- You can paste this into your GitHub README using markdown inside an <svg> tag as image OR just keep it below -->
-
-<svg width="100%" height="100" viewBox="0 0 1200 100" preserveAspectRatio="none">
-  <path d="M0,0 C300,100 900,0 1200,100 L1200,00 L0,0 Z" fill="#facc15"></path>
-</svg>
