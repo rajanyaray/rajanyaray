@@ -1,111 +1,104 @@
-# ✨ RAJANYA ✨
-### *Where Innovation Meets Elegance*
+<p align="center">
+  <svg width="450" height="80" viewBox="0 0 450 80" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <style>
+        @keyframes strokeFlow {
+          0% { stroke-dashoffset: 300; }
+          100% { stroke-dashoffset: 0; }
+        }
+        .static-text {
+          fill: #e0e0e0;
+          font-size: 48px;
+          font-weight: bold;
+          font-family: 'Courier New', monospace;
+          letter-spacing: 2px;
+        }
+        .ray-text {
+          fill: none;
+          stroke: #4ade80;
+          stroke-width: 2;
+          stroke-dasharray: 300;
+          font-size: 48px;
+          font-weight: bold;
+          font-family: 'Courier New', monospace;
+          letter-spacing: 2px;
+          animation: strokeFlow 3s ease-in-out infinite;
+        }
+      </style>
+    </defs>
+    <text x="10" y="55" class="static-text">&lt;RAJANYA</text>
+    <text x="235" y="55" class="ray-text">RAY&gt;</text>
+  </svg>
+</p>
 
-```
-    ╔════════════════════════════════════════════════════════╗
-    ║                                                        ║
-    ║   🚀 RAJANYA - Crafted for the Extraordinary 🚀      ║
-    ║                                                        ║
-    ║        Transform • Elevate • Revolutionize             ║
-    ║                                                        ║
-    ╚════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <i>MERN Stack Developer | SIH 2025 Winner | 3x Hackathon Winner</i>
+</p>
 
----
-
-## 🌟 **What Makes RAJANYA Different?**
-
-> *"Not just another project. A philosophy. A movement. An experience."*
-
-RAJANYA isn't just code—it's a **carefully orchestrated symphony** of innovation, designed for those who refuse to settle for ordinary. Every line is intentional. Every feature is purposeful. Every interaction is magical.
-
-### 🎨 **The RAJANYA Distinction**
-
-| Aspect | The Difference |
-|--------|-----------------|
-| **Design** | Pixel-perfect elegance meets raw power |
-| **Philosophy** | User-first, always. Beauty without compromise. |
-| **Vision** | Not following trends—setting them. |
-| **Impact** | Projects that don't just work—they *shine*. |
-
----
-
-## 💎 **Core Pillars of RAJANYA**
-
-```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  🔮 INTUITIVE    →    Built for humans        │
-│  ⚡ BLAZING FAST  →    Speed is non-negotiable │
-│  🎯 PRECISE      →    Zero tolerance for bugs  │
-│  🌈 BEAUTIFUL    →    Aesthetics matter       │
-│  🛡️  SECURE      →    Trust is earned        │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
+<img src="https://readme-typing-svg.demolab.com?font=Courier+Code&size=18&pause=2000&color=4ADE80&center=true&vCenter=true&width=600&lines=Turning+ideas+into+scalable+products;Exploring+intersection+of+Web%2C+AI+%26+IoT;Always+learning+and+building" alt="Typing Animation" />
 
 ---
 
-## 🎭 **Why Choose RAJANYA?**
+### 👨‍💻 About Me
 
-Think of RAJANYA as the **intersection of art and engineering**—where:
-
-✨ **Performance** doesn't mean sacrificing **elegance**  
-🎯 **Functionality** stays true to **vision**  
-💪 **Power** remains **accessible**  
-🌍 **Scale** doesn't compromise **quality**  
+🎓 B.Tech CSE (IoT) @ Techno Main Salt Lake  
+🌐 Passionate about crafting meaningful, user-centered web & mobile experiences  
+🚀 Building innovative AI-ML & full-stack projects  
+📬 Reach me: **rayrajanya4@gmail.com**
 
 ---
 
-## 🚀 **The RAJANYA Experience**
+### 🔥 Tech Stack
 
-```javascript
-// It's not just about what it does—it's how it feels
-const experience = {
-  speed: "⚡ Lightning",
-  beauty: "✨ Breathtaking", 
-  power: "💪 Unstoppable",
-  impact: "🌟 Unforgettable"
-}
-```
+**Frontend:** React | Next.js | TailwindCSS | Figma  
+**Backend:** Node.js | Express.js | Flask  
+**Database:** MongoDB | PostgreSQL  
+**Tools & Technologies:** Git | Docker | Firebase | Auth0 | Google Gemini API
 
 ---
 
-## 🔥 **Quick Snapshot**
+### 🧠 Notable Projects
 
-- 🎯 **Precision-Engineered** — Every detail matters
-- 📈 **Battle-Tested** — Trusted by innovators worldwide
-- 🌍 **Globally Designed** — For a global audience
-- 🎨 **Obsessively Crafted** — Where perfection meets purpose
-- 🚀 **Future-Ready** — Built for what's next
+#### 🔍 **TruthScope**
+> _AI-powered Chrome extension for real-time fake news detection_
 
----
+- Gemini AI + NLP + Fact-checking APIs
+- Chrome Manifest V3 + Flask + TailwindCSS
+- Real-time credibility scoring
 
-## ✨ **Getting Started with RAJANYA**
-
-```bash
-# Your journey begins here
-$ git clone https://github.com/YOU/rajanya
-$ cd rajanya
-$ npm install  # or your preferred package manager
-```
+![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-brightgreen?style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat)
 
 ---
 
-## 🎁 **What You're About to Discover**
+#### 🚑 **SevaSaarthi**
+> _AI-driven medical emergency app with real-time hospital data & ambulance tracking_
 
-RAJANYA delivers:
+- Flutter frontend with Firebase backend
+- Optimized route algorithms using AI
+- Auth0 integration for secure access
 
-1. **Seamless Integration** — Plays well with your ecosystem
-2. **Extensive Documentation** — Every question answered
-3. **Active Community** — You're never alone in this journey
-4. **Regular Evolution** — Constantly improving, never stagnant
-5. **Production-Ready** — From day one to day forever
+🏆 **Winner – Internal Smart India Hackathon 2024**  
+🥉 **4th Place – Smart Bengal Hackathon 2025**
 
 ---
 
-*RAJANYA: Where Your Dreams Meet Our Code.*
+### ✨ Achievements & Roles
 
-**[⬇️ Install Now](#installation)** • **[📖 Learn More](#documentation)** • **[💬 Join Community](#community)**
+- 🎨 **Graphics Co-Head** – tecnOTKARSH
+- 📝 **Content Co-Head** – Samarth Educational Club
+- 🥇 Multiple Hackathon Awards
+- 🌍 Led UI/UX and branding for inter-college events
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://github.com/rajanyaray"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/rajanya-ray-92ab452a3/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="mailto:rayrajanya4@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+</div>
 
 ---
