@@ -1,41 +1,16 @@
 <p align="center">
-  <svg width="450" height="80" viewBox="0 0 450 80" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <style>
-        @keyframes strokeFlow {
-          0% { stroke-dashoffset: 300; }
-          100% { stroke-dashoffset: 0; }
-        }
-        .static-text {
-          fill: #e0e0e0;
-          font-size: 48px;
-          font-weight: bold;
-          font-family: 'Courier New', monospace;
-          letter-spacing: 2px;
-        }
-        .ray-text {
-          fill: none;
-          stroke: #4ade80;
-          stroke-width: 2;
-          stroke-dasharray: 300;
-          font-size: 48px;
-          font-weight: bold;
-          font-family: 'Courier New', monospace;
-          letter-spacing: 2px;
-          animation: strokeFlow 3s ease-in-out infinite;
-        }
-      </style>
-    </defs>
-    <text x="10" y="55" class="static-text">&lt;RAJANYA</text>
-    <text x="235" y="55" class="ray-text">RAY&gt;</text>
-  </svg>
+  <h2 style="color: #e0e0e0; font-family: 'Courier New', monospace; font-size: 3em; margin: 0;">
+    <span style="color: white;">RAJANYA</span> <span style="color: #4ade80;">RAY</span>
+  </h2>
+</p>
+
+<p align="center" style="color: #4ade80; font-family: 'Courier New', monospace; font-size: 1.1em; margin: 1rem 0;">
+  MERN Stack Developer | SIH 2025 Winner | 3x Hackathon Winner
 </p>
 
 <p align="center">
-  <i>MERN Stack Developer | SIH 2025 Winner | 3x Hackathon Winner</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Code&size=18&pause=3000&color=4ADE80&center=true&vCenter=true&width=600&lines=Turning+ideas+into+scalable+products;Exploring+intersection+of+Web%2C+AI+%26+IoT;Always+learning+and+building" alt="Typing" />
 </p>
-
-<img src="https://readme-typing-svg.demolab.com?font=Courier+Code&size=18&pause=2000&color=4ADE80&center=true&vCenter=true&width=600&lines=Turning+ideas+into+scalable+products;Exploring+intersection+of+Web%2C+AI+%26+IoT;Always+learning+and+building" alt="Typing Animation" />
 
 ---
 
