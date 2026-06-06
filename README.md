@@ -42,19 +42,27 @@
 
 ---
 
-#### 🚑 **SevaSaarthi**
-> _AI-driven medical emergency app with real-time hospital data & ambulance tracking_
+#### 🔍 **StegoChain**
+> _Blockchain-backed steganographic communication system_
 
-- Flutter frontend with Firebase backend
-- Optimized route algorithms using AI
-- Auth0 integration for secure access
+-- Steganographic Message Hiding – Securely hides encrypted messages inside images and audio files.
+-- AES-256-GCM Encryption – Military-grade encryption ensures confidentiality and data integrity.
+-- Ethereum Blockchain Integration – Stores communication records on-chain for tamper-proof verification.
 
-🏆 Winner – Internal Smart India Hackathon 2024  
+![Tech](https://img.shields.io/badge/Solidity-purple?style=flat-square&logo=solidity)
+![Tech](https://img.shields.io/badge/-Python-blue?style=flat&logo=python)
+![Tech](https://img.shields.io/badge/tailwindcss-0F172A?&logo=tailwindcss)
+
+### ✨ Achievements
+
+🏆 Winner – Smart India Hackathon 2025
+🏅 Runner-Up – Cognizant Technoverse Hackathon 2026
 🥉 4th Place – Smart Bengal Hackathon 2025
+🏆 Winner – Internal Smart India Hackathon 2024  
 
 ---
 
-### ✨ Achievements & Roles
+### ✨ Roles
 
 - 🎨 **Graphics Co-Head** – tecnOTKARSH  
 - 📝 **Content Co-Head** – Samarth Educational Club  
